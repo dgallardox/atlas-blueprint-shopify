@@ -9,6 +9,7 @@ export default function Page(props) {
   return (
     <ApolloProvider client={shopifyClient}>
       <ShopifyCartProvider>
+    <p>hola</p>
         <WordPressTemplate {...props} />
       </ShopifyCartProvider>
     </ApolloProvider>
