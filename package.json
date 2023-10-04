@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.8.2",
+    "@faustwp/cli": "1.1.1",
     "@apollo/react-testing": "^4.0.0",
     "@faustwp/core": "1.1.1",
     "@wordpress/base-styles": "^4.32.0",
@@ -30,7 +31,6 @@
     "use-debounce": "^9.0.3"
   },
   "devDependencies": {
-    "@faustwp/cli": "1.1.1",
     "@babel/preset-env": "^7.22.15",
     "@babel/preset-react": "^7.22.5",
     "@testing-library/jest-dom": "^6.1.2",
