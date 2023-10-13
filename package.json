@@ -6,7 +6,7 @@
     "dev": "faust dev",
     "prebuild": "echo I run before the build script",
     "build": "faust build",
-    "postbuild": "echo I run after the build script"
+    "postbuild": "echo I run after the build script",
     "generate": "faust generatePossibleTypes",
     "start": "faust start",
     "lint": "next lint --fix & npx prettier --write .",
