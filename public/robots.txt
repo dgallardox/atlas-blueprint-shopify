@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://h99o4hh8are8s8qres8zd0spv.js.wpenginepowered.com
+
+# Sitemaps
+Sitemap: https://h99o4hh8are8s8qres8zd0spv.js.wpenginepowered.com/sitemap.xml

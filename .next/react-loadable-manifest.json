@@ -1,0 +1,28 @@
+{
+  "../components/Header/Header.js -> ./CartQuickView": {
+    "id": 7809,
+    "files": [
+      "static/chunks/71.9790be4df4378f53.js"
+    ]
+  },
+  "../node_modules/next/dist/client/index.js -> ../pages/_app": {
+    "id": 2741,
+    "files": [
+      "static/chunks/741.f26bd7d755a149d6.js"
+    ]
+  },
+  "../node_modules/next/dist/client/index.js -> ../pages/_error": {
+    "id": 9651,
+    "files": [
+      "static/chunks/651.ff86527c63e2d81b.js"
+    ]
+  },
+  "cart.js -> ../components/Cart": {
+    "id": 4532,
+    "files": [
+      "static/chunks/d7eeaac4.7e5991697ecf654f.js",
+      "static/css/056cdfc65bcfbb6d.css",
+      "static/chunks/23.c8a8edfaa1b1b103.js"
+    ]
+  }
+}
